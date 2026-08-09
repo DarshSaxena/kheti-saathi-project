@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646708529784",
+    "project_id": "crop-disease-detector-33288",
+    "storage_bucket": "crop-disease-detector-33288.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646708529784:android:3508c9e8957500068fbb8d",
+        "android_client_info": {
+          "package_name": "com.example.kheti_saathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ04pD4f7nFFF3tI3Cfv96sZb3o5UZsMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
